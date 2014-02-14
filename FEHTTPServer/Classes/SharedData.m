@@ -1,9 +1,9 @@
 //
 //  SettingsData.m
-//  IzziRent_Universal
+//  FEHTTPServer
 //
 //  Created by Luka Penger on 2/25/13.
-//  Copyright (c) 2013 Izzivizzi. All rights reserved.
+//  Copyright (c) 2013 Luka Penger. All rights reserved.
 //
 
 #import "SharedData.h"
